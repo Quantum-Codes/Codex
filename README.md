@@ -1,4 +1,3 @@
-# Codex
+# Codex Frontend
 
-Push frontend to the frontend branch<br>
-And backend to the main branch under the `backend/` folder
+Push frontend code into the `frontend/` folder (this is to later put this on the main branch once we deploy.)
